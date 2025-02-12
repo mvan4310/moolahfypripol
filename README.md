@@ -11,7 +11,7 @@ Information Collection and Use
 
 For a better experience, while using this service, I may require you to provide us with certain personally identifiable information, including but not limited to manually entered expenses that are saved locally or on iCloud. This data never leaves your control. iCloud functionality may be disabled by going to your iOS iCloud settings and disabling iCloud for Moolahfy.
 
-The app does use third-party services that may collect information used to identify you.
+The app does not use third-party services that may collect information used to identify you.
 
 Log Data
 
